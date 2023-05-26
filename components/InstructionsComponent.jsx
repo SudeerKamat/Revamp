@@ -6,11 +6,10 @@ export default function InstructionsComponent() {
 		<div className={styles.container}>
 			<header className={styles.header_container}>
 				<h1>
-					Revamp<span>For Salesforce</span>
+					<span>Revamp</span> For Salesforce
 				</h1>
 				<p>
-					Revamp Your Salesforce
-					<span>Experience</span>
+					<span>Revamp Your Salesforce Experience</span>
 				</p>
 			</header>
 
