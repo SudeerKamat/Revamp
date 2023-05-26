@@ -70,7 +70,9 @@ border: 1px solid #4E4E4E;
 border-radius: 12px;
 cursor: pointer;
 }
-
+.button::hover{
+background: linear-gradient(280deg,#36beff,#733ff1);
+}
 .button p {
 
 font-style: normal;
