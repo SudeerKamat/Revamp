@@ -57,20 +57,15 @@ border-radius: 8px;
 }
 
 .button{
-	display: flex;
+display: flex;
 flex-direction: row;
 align-items: center;
 justify-content: center;
-
 padding: 24px 32px;
 gap: 12px;
-
 width: 392px;
 height: 76px;
-
-background: rgba(0, 0, 0, 0.8);
-/* Grayscale/Metal */
-
+background: linear-gradient(140deg,#36beff,#733ff1);
 border: 1px solid #4E4E4E;
 border-radius: 12px;
 cursor: pointer;
