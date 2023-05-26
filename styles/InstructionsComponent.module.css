@@ -71,7 +71,7 @@ border-radius: 12px;
 cursor: pointer;
 transition: background 3s ease-in-out;
 }
-.button::hover{
+.button:hover{
 background: linear-gradient(280deg,#36beff,#733ff1);
 }
 .button p {
