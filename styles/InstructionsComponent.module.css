@@ -69,6 +69,7 @@ background: linear-gradient(140deg,#36beff,#733ff1);
 border: 1px solid #4E4E4E;
 border-radius: 12px;
 cursor: pointer;
+transition: background 3s ease-in-out;
 }
 .button::hover{
 background: linear-gradient(280deg,#36beff,#733ff1);
